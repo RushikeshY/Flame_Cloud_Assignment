@@ -1,0 +1,189 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "Category": "Marketing",
+      "TeamMember": [
+        {
+          "id": 1,
+          "Member": [
+            {
+              "id": 1,
+              "Name": "raju"
+            },
+            {
+              "id": 2,
+              "Name": "Ankur"
+            },
+            {
+              "id": 3,
+              "Name": "Jetha"
+            },
+            {
+              "id": 4,
+              "Name": "Ramesh"
+            }
+          ]
+        }
+      ],
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": [
+            {
+              "id": 1,
+              "PointName": "Pointer1"
+            },
+            {
+              "id": 2,
+              "PointName": "Pointer2"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "Design",
+      "TeamMember": [
+        {
+          "id": 1,
+          "Member": [
+            {
+              "id": 1,
+              "Name": "raju"
+            },
+            {
+              "id": 2,
+              "Name": "Ankur"
+            },
+            {
+              "id": 3,
+              "Name": "Jetha"
+            },
+            {
+              "id": 4,
+              "Name": "Ramesh"
+            }
+          ]
+        }
+      ],
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": []
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Category": "Sales",
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": []
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ]
+    },
+    {
+      "Category": "King",
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": []
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ],
+      "id": 4
+    },
+    {
+      "Category": "12",
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": []
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ],
+      "id": 5
+    },
+    {
+      "Category": "1",
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": []
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ],
+      "id": 6
+    },
+    {
+      "Category": "wqw",
+      "subCategories": [
+        {
+          "id": 1,
+          "SubCategory": "Wordpress",
+          "Points": []
+        },
+        {
+          "id": 2,
+          "SubCategory": "Google Drive",
+          "Points": []
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "TeamData": [
+    {
+      "id": 1,
+      "Name": "raju"
+    },
+    {
+      "id": 2,
+      "Name": "Ankur"
+    },
+    {
+      "id": 3,
+      "Name": "Jetha"
+    },
+    {
+      "id": 4,
+      "Name": "Ramesh"
+    }
+  ]
+}
